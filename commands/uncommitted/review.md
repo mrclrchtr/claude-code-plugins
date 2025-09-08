@@ -68,3 +68,5 @@ Analyze all changes and provide actionable feedback:
 
 Provide direct, unfiltered feedback. Be the thorough reviewer everyone needs but nobody wants.
 Focus on actual problems, not hypothetical edge cases. Keep feedback specific and actionable.
+
+Ultrathink!
