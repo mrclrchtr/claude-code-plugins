@@ -1,0 +1,19 @@
+{
+  "name": "session",
+  "version": "1.0.0",
+  "description": "Session management system for documenting development work. Track progress, issues, solutions, and learnings in markdown files for future reference.",
+  "repository": "https://github.com/mrclrchtr/claude-code-plugins",
+  "author": {
+    "name": "mrclrchtr",
+    "url": "https://github.com/mrclrchtr"
+  },
+  "commands": [
+    "session-start",
+    "session-update",
+    "session-end",
+    "session-list",
+    "session-current",
+    "session-load",
+    "session-help"
+  ]
+}

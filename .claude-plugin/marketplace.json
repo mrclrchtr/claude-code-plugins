@@ -1,0 +1,16 @@
+{
+  "name": "claude-code-plugins",
+  "description": "Personal Claude Code plugin marketplace",
+  "repository": "https://github.com/mrclrchtr/claude-code-plugins",
+  "owner": {
+    "name": "mrclrchtr",
+    "url": "https://github.com/mrclrchtr"
+  },
+  "plugins": [
+    {
+      "name": "session",
+      "source": "./plugins/session",
+      "description": "Session management commands for Claude Code"
+    }
+  ]
+}
